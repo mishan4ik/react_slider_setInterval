@@ -1,0 +1,16 @@
+
+.Slider_block{
+
+    max-width: 1920px;
+    overflow: hidden;
+    margin: 0px auto;
+
+
+}
+.slider_slide{
+
+    display: flex;
+    justify-content: flex-start;  
+    max-width: 1920px;
+
+}
